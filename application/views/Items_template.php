@@ -118,10 +118,10 @@
 
                     </div> -->
                     <div id="croppicUpload" name='img' class='col-lg-4 cropWindow' style="" ></div>
-                    <div id ="imgNotes" class="noteHighlight col-md-6">注：图片不得大于2MB，长*宽上限为1600*1600</div>
+                    <div id ="imgNotes" class="noteHighlight col-md-6">Image and not greate thatn 2MB，max height*width:1600*1600</div>
                       <div id="uploadSaveBtns">
                         <a href="#" class="btn btn-success"  onclick="savePathToSlot()" style="
-                        width:100%;">确认上传</a>
+                        width:100%;">Confirm </a>
                       </div>
                  
 

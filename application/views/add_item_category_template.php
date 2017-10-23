@@ -36,7 +36,7 @@
                         <div class="form-group">
                             <label for="classify-name" class="col-lg-1 control-label">Category name</label>
                             <div class="col-lg-4">
-                              <input type="text" name="data[name]" class="form-control" id="category-name" value="{post_data[name]}" required placeholder="category name">
+                              <input type="text" name="data[name]" class="form-control" id="category-name" value="{post_data[name]}" required placeholder="category name ">
                             </div>
                         </div>
                          <div class="form-group">
